@@ -1,0 +1,31 @@
+product_id,name,price,stock,category,discount,description,image_path
+p101,Laptop,90000000.0,3,Electronics,0.0,8GB RAM,images\laptop.png
+p102,Mouse,250000,1,Electronics,0,Wireless,images\mouse.png  
+p103,Keyboard,750000,10,Electronics,10,Mechanical keyboard,images\keyboard.png
+p104,Monitor,12500000,4,Electronics,5,24 inch full HD monitor,images\monitor.png
+p105,Headphones,1800000,8,Electronics,0,Noise cancelling headphones,images\headphones.png
+p106,Smartphone,200000000.0,5,Electronics,7.0,128GB storage smartphone,images\smartphone.png
+p107,Tablet,120000000.0,6,Electronics,5.0,10 inch tablet,images\tablet.png
+p108,Smartwatch,6500000,7,Electronics,10,Fitness smartwatch,images\smartwatch.png
+p109,Printer,8500000,3,Electronics,0,Color inkjet printer,images\printer.png
+p110,Webcam,2100000,12,Electronics,15,Full HD webcam,images\webcam.png
+p111,Speaker,3200000,9,Electronics,5,Bluetooth speaker,images\speaker.png
+p112,USB Flash,480000,20,Electronics,0,64GB USB flash drive,images\usb.png
+p113,External HDD,4200000,6,Electronics,8,1TB external hard drive,images\external_hdd.png
+p114,Router,2800000,5,Electronics,0,WiFi router,images\router.png
+p115,Office Chair,7800000,4,Furniture,12,Comfortable office chair,images\office_chair.png
+p116,Desk Lamp,1000000.0,10,Home,7.0,LED desk lamp,images\desk_lamp.png
+p117,Backpack,6000000,8,Fashion,10,Laptop backpack,images\backpack.png
+p118,Coffee Maker,14500000,2,Home,10,Automatic coffee maker,images\coffee_maker.png
+p119,Power Bank,1500000,15,Electronics,10,10000mAh power bank,images\power_bank.png
+p120,Phone Case,950000,25,Accessories,0,Shockproof phone case,images\phone_case.png
+p121,SSD Drive,6500000,7,Electronics,10,512GB SSD drive,images\ssd.png
+p122,Microphone,3000000,6,Electronics,14,USB studio microphone,images\microphone.png
+p123,Mouse Pad,1750000,18,Accessories,0,Large gaming mouse pad,images\mouse_pad.png
+p124,Graphics Card,27500000,2,Electronics,12,4GB graphics card,images\graphics_card.png
+p125,HDMI Cable,1500000,30,Accessories,0,High speed HDMI cable,images\hdmi_cable.png
+p126,Scanner,9000000,4,Electronics,10,Flatbed document scanner,images\scanner.png
+p127,Calculator,3500000,10,Office,0,Scientific calculator,images\calculator.png
+p128,Desk,2700000,5,Furniture,10,Wooden computer desk,images\desk.png
+p129,Air Purifier,17000000,3,Home,10,Smart air purifier,images\air_purifier.png
+p130,Earbuds,1100000,14,Electronics,0,Wireless earbuds,images\earbuds.png
