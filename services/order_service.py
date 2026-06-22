@@ -5,7 +5,6 @@ from services.auth_service import AuthService
 from services.cart_service import CartService
 from ui.utils import format_toman
 
-
 # Path of the orders data file
 ORDER_FILE = "data/orders.csv"
 
@@ -112,6 +111,10 @@ class OrderService:
             item_total = round(final_price * quantity, 2)
 
             total_price += item_total
+
+            # Check if user balance is enough
+            if total_price > user_balance:
+                return False, "Not enough balance."
 
             # Create a new order record
             order = [
